@@ -1,0 +1,21 @@
+body {
+    background: #1c3174;
+    color: white;
+}
+
+form {
+    padding: 15px;
+    background: #0d47a1;
+    color: white;
+}
+
+.card-body {
+    background: #fff;
+    border-radius: 1rem;
+    color: #000;
+    cursor: pointer;
+}
+
+a.card {
+    text-decoration: none;
+}
